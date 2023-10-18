@@ -1,3 +1,4 @@
 # Notes
 GUI notepad application 
-![Uploading image.png…]()
+![Uploading syc.png…]()
+
